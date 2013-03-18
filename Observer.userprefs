@@ -1,0 +1,44 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Navigation\ResidentNav.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AI\Option\Dance.cs" Line="14" Column="1" />
+      <File FileName="Assets\Scripts\AI\Option\Sleep.cs" Line="12" Column="1" />
+      <File FileName="Assets\Scripts\AI\Option\BaseOption.cs" Line="13" Column="1" />
+      <File FileName="Assets\Scripts\AI\Consideration\BaseConsideration.cs" Line="21" Column="28" />
+      <File FileName="Assets\Scripts\AI\Agent.cs" Line="41" Column="35" />
+      <File FileName="Assets\Scripts\Navigation\ResidentNav.cs" Line="16" Column="27" />
+      <File FileName="Assets\Scripts\AI\Consideration\Tiredness.cs" Line="10" Column="40" />
+      <File FileName="Assets\Scripts\Navigation\NavDestination.cs" Line="18" Column="22" />
+      <File FileName="Assets\Scripts\AI\Personality.cs" Line="16" Column="1" />
+      <File FileName="Assets\Scripts\AI\Consideration\Enjoyability.cs" Line="6" Column="25" />
+      <File FileName="Assets\Scripts\AI\Consideration\Commit.cs" Line="7" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="AI" expanded="True">
+                  <Node name="Consideration" expanded="True" />
+                  <Node name="Option" expanded="True" />
+                </Node>
+                <Node name="Audio" expanded="True" />
+                <Node name="Navigation" expanded="True">
+                  <Node name="ResidentNav.cs" selected="True" />
+                </Node>
+                <Node name="Objects" expanded="True" />
+                <Node name="Player" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
